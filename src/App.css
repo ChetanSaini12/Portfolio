@@ -1,0 +1,147 @@
+.home {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: rgba(29.26, 30.1, 25.88, 0.86);
+}
+
+.side-box {
+  width: 452px;
+  height: 100vh;
+  right: 0;
+  position: absolute;
+  background-color: #00F0FF;
+  overflow-y: clip;
+}
+
+
+.full-img {
+  top: -125px;
+  right: 208px;
+  height: 900px;
+  width: 452px;
+  position: absolute;
+  mix-blend-mode: luminosity;
+  z-index: 100
+}
+
+.chetan-text {
+  left: 394.15px;
+  top: 452.61px;
+  position: absolute;
+  transform: rotate(-22.31deg);
+  transform-origin: 0 0;
+  opacity: 0.26;
+  mix-blend-mode: soft-light;
+  color: white;
+  font-size: 87px;
+  font-family: 'Kaushan Script', sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+  z-index: 0;
+}
+
+
+.saini-text {
+  left: 895px;
+  top: 260px;
+  position: absolute;
+  transform: rotate(-22.31deg);
+  transform-origin: 0 0;
+  opacity: 0.61;
+  mix-blend-mode: color;
+  color: white;
+  font-size: 87px;
+  font-family: 'Kaushan Script', cursive;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.c-text {
+  left: -30px;
+  top: -130px;
+  position: absolute;
+  mix-blend-mode: soft-light;
+  color: white;
+  font-size: 300px;
+  font-family: 'Libre Caslon Display', serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+
+.h-text {
+  left: 785px;
+  top: 0px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: '0 0';
+  opacity: 0.48;
+  mix-blend-mode: luminosity;
+  color: white;
+  font-size: 115px;
+  font-family: 'Libre Caslon Display', serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+
+.e-text {
+  left: 92px;
+  top: 347px;
+  position: absolute;
+  opacity: 0.70;
+  mix-blend-mode: hard-light;
+  transform: rotate(-90deg);
+  color: white;
+  font-size: 102px;
+  font-family: 'Libre Caslon Display', serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+
+.t-text {
+  left: 1098px;
+  top: 100px;
+  position: absolute;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+  opacity: 0.70;
+  mix-blend-mode: hard-light;
+  color: white;
+  font-size: 89px;
+  font-family: 'Libre Caslon Display', serif;
+  font-weight: 400;
+  word-wrap: break-word;
+
+}
+
+
+.a-text {
+  left: 690px;
+  top: 410px;
+  position: absolute;
+  transform-origin: '0 0';
+  opacity: 0.48;
+  mix-blend-mode: luminosity;
+  color: white;
+  font-size: 108px;
+  font-family: 'Libre Caslon Display', serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+
+.n-text {
+  left: 1035px;
+  top: 123px;
+  position: absolute;
+  opacity: 0.40;
+  mix-blend-mode: color;
+  color: white;
+  font-size: 300px;
+  font-family: 'Libre Caslon Display', serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}

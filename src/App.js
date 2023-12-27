@@ -1,10 +1,11 @@
 import './App.css';
+import Home from './Components/Home';
 
 function App() {
   return (
-    <div className="App flex justify-center min-h-screen items-center text-6xl text-orange-400">
-      <h1>Lets start!!</h1>
-    </div>
+    <>
+      <Home/>
+    </>
   );
 }
 
