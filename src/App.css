@@ -213,5 +213,21 @@
 
 .custom-shape-divider-bottom-1703766559 .shape-fill {
   fill : #1C232B;
+  
+}
+
+
+
+/***********************************************Skills***********************************************/
+
+.skills {
+  height: 220vh;
+  width: 100vw;
+  position: relative;
+}
+
+.skillsbox {
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 5px rgb(23, 25, 25);
 }
 
