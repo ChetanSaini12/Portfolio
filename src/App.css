@@ -232,3 +232,47 @@
   /* transform: perspective(100vh) rotateZ(-10deg); */
 }
 
+.lst-items {
+  max-width: 900px;
+  margin: 4rem auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.lst-items li {
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  margin-left: 2rem;
+}
+
+
+.lst-items .lst-points ul {
+  margin-top: 10px;
+  list-style-type: square;
+}
+
+.lst-items .lst-points ul li {
+  margin-left: 4rem;
+}
+
+.lst-items li::before {
+  content: "\2022";
+  display: inline-block;
+  width: 1em;
+  font-weight: 900;
+}
+
+/* .lst-items li:last-child {
+  font-weight: bold;
+  color: #28a745;
+}
+
+.lst-items li:nth-last-child(2) {
+  font-style: italic;
+  color: #ff8800;
+} */
