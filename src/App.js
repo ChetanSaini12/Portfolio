@@ -1,4 +1,5 @@
 import "./App.css";
+import Achievements from "./Components/Achievements";
 import Contactme from "./Components/Contactme";
 import Middle1 from "./Components/Designs/Middle1";
 import Home from "./Components/Home";
@@ -9,10 +10,11 @@ import Skills from "./Components/Skills";
 function App() {
   return (
     <>
-    {/* <Projects/> */}
     <Home/>
     <Middle1/>
     <Skills/>
+    <Achievements/>
+    {/* <Projects/> */}
     <Contactme/>
     </>
   );
