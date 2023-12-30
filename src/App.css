@@ -267,12 +267,6 @@
   font-weight: 900;
 }
 
-/* .lst-items li:last-child {
-  font-weight: bold;
-  color: #28a745;
+.lst-items .number {
+  font-family: 'Playfair Display';
 }
-
-.lst-items li:nth-last-child(2) {
-  font-style: italic;
-  color: #ff8800;
-} */
