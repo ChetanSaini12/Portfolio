@@ -1,4 +1,5 @@
 import "./App.css";
+import AboutMe from "./Components/AboutMe";
 import Achievements from "./Components/Achievements";
 import Contactme from "./Components/Contactme";
 import Middle1 from "./Components/Designs/Middle1";
@@ -12,6 +13,7 @@ function App() {
     <>
     <Home/>
     <Middle1/>
+    <AboutMe/>
     <Skills/>
     <Achievements/>
     {/* <Projects/> */}

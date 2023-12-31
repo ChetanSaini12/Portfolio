@@ -212,8 +212,7 @@
 }
 
 .custom-shape-divider-bottom-1703766559 .shape-fill {
-  fill : #1C232B;
-  
+  fill : #1C232B;  
 }
 
 
@@ -221,7 +220,7 @@
 /***********************************************Skills***********************************************/
 
 .skills {
-  height: 220vh;
+  height: 1080px;
   width: 100vw;
   position: relative;
 }
@@ -269,4 +268,48 @@
 
 .lst-items .number {
   font-family: 'Playfair Display';
+}
+
+
+/******************************************Details******************************************/
+.aboutme {
+  height: 1100px;
+  width: 100vw;
+  margin-top: 40px;
+}
+
+.detailsimg {
+  width: 850px;
+  height: 1050px;
+  box-shadow: 0px 0px 15px 5px rgb(23, 25, 25);
+  transition: box-shadow, transform 0.6s ease-in-out; 
+}
+
+.detailsimg:hover {
+  box-shadow: 0px 0px 15px 5px rgb(35, 57, 57);
+  transform: rotate(3deg);
+}
+
+.connect h2 {
+  font-family: 'Lovers Quarrel', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  letter-spacing: 2px;
+  margin: 0;
+  font-size: 4rem;
+  text-shadow: 5px 5px 3px rgba(82, 243, 255, 0.3);
+  transition: text-shadow 0.6s ease;
+}
+
+.connect h2:hover {
+  text-shadow: 5px 5px 3px rgba(255, 82, 163, 0.3);
+}
+
+.connect .iconImg {
+  height: 100px;
+  width: 100px;
+  transition: all 0.6s ease-in-out;
+}
+
+.connect .iconImg:hover {
+  transform: rotate(360deg);
 }
