@@ -1,5 +1,5 @@
 import React from "react";
-import myImg from "../chetan-withoutbg.png";
+import myImg from "../helper/chetan-withoutbg.png";
 
 function Home() {
   return (
