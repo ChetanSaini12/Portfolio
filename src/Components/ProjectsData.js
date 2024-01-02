@@ -9,7 +9,7 @@ export const Data = [
       title: "CP HUB : DCC NITA",
       githubLink: "https://github.com/ChetanSaini12/A2OJ",
       deployedLink: "https://cphub.dccnita.tech/",
-      description: "CP-HUB is a dedicated competitive programming website designed for coding enthusiasts. It serves as a centralized hub for all things related to competitive programming, offering features such as a Learning Path and Resource Guide, a Timeline-based Learning Roadmap, Direct Access to Codeforces A2OJ Ladder, an Integrated Code Editor and Execution tool, and a Leaderboard and Ranking system. This platform provides a streamlined and professional environment for individuals to enhance their coding skills and engage in a community of like-minded programmers.",
+      description: "CP-HUB is a premier competitive programming website, catering to coding enthusiasts with its centralized platform. It offers a Learning Path, Timeline-based Roadmap, and direct access to Codeforces A2OJ Ladder. With an integrated code editor, execution tool, and a robust Leaderboard, CP-HUB provides a professional space for individuals to elevate their coding skills within a vibrant community of programmers.",
       img: cphub,
       tools: {
         frontend: ["CSS", "JavaScript", "ReactJs", "React Icons", "React Router DOM", "Tailwind CSS", "ParticleJs", "Local Storage"],
