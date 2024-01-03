@@ -3,7 +3,7 @@ import React from "react";
 function Contactme() {
   return (
     <div>
-      <div className="contactme grid grid-cols-2 gap-20 text-center overflow-x-hidden w-screen h-screen">
+      <div className="contactme grid grid-cols-2 gap-20 text-center overflow-x-hidden w-screen">
         <div className="containerOfBox m-10 p-10 gap-5 flex flex-col">
           <h1 className="text-4xl ">Contact</h1>
           <p>

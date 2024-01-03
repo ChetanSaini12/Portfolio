@@ -15,7 +15,7 @@ function Projects() {
     <section>
       <div
         style={{ fontFamily: "'Montserrat', sans-serif" }}
-        className="project_timeline max-w-screen-lg mx-auto mt-12"
+        className="projects max-w-screen-lg mx-auto mt-12"
       >
         <div className="w-full mx-auto p-4">
           <div className="project_items mx-auto">
