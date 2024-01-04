@@ -14,7 +14,7 @@ function Otherskills() {
                 <div>Git</div>
                 <progress
                   className="progress progress-accent w-40"
-                  value="70"
+                  value="90"
                   max="100"
                 ></progress>
               </div>
@@ -23,7 +23,7 @@ function Otherskills() {
                 <div>Github</div>
                 <progress
                   className="progress progress-secondary w-40"
-                  value="70"
+                  value="100"
                   max="100"
                 ></progress>
               </div>
@@ -32,7 +32,7 @@ function Otherskills() {
                 <div>VSCode</div>
                 <progress
                   className="progress w-40"
-                  value="70"
+                  value="100"
                   max="100"
                 ></progress>
               </div>
@@ -43,7 +43,7 @@ function Otherskills() {
                 <div>Docker</div>
                 <progress
                   className="progress progress-primary w-40"
-                  value="70"
+                  value="40"
                   max="100"
                 ></progress>
               </div>

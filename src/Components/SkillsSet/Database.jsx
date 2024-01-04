@@ -14,7 +14,7 @@ function Database() {
                 <div>MongoDB</div>
                 <progress
                   className="progress progress-accent w-40"
-                  value="70"
+                  value="90"
                   max="100"
                 ></progress>
               </div>
@@ -23,7 +23,7 @@ function Database() {
                 <div>MySQL</div>
                 <progress
                   className="progress progress-secondary w-40"
-                  value="70"
+                  value="80"
                   max="100"
                 ></progress>
               </div>
@@ -32,7 +32,7 @@ function Database() {
                 <div>Supabase</div>
                 <progress
                   className="progress w-40"
-                  value="70"
+                  value="50"
                   max="100"
                 ></progress>
               </div>
@@ -43,7 +43,7 @@ function Database() {
                 <div>SQLite</div>
                 <progress
                   className="progress progress-primary w-40"
-                  value="70"
+                  value="50"
                   max="100"
                 ></progress>
               </div>
@@ -52,7 +52,7 @@ function Database() {
                 <div>Redis</div>
                 <progress
                   className="progress progress-warning w-40"
-                  value="70"
+                  value="50"
                   max="100"
                 ></progress>
               </div>
@@ -61,7 +61,7 @@ function Database() {
                 <div>PostgreSQL</div>
                 <progress
                   className="progress progress-success w-40"
-                  value="70"
+                  value="50"
                   max="100"
                 ></progress>
               </div>

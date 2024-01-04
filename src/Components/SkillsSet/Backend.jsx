@@ -14,7 +14,7 @@ function Backend() {
                 <div>Node Js</div>
                 <progress
                   className="progress progress-accent w-40"
-                  value="70"
+                  value="90"
                   max="100"
                 ></progress>
               </div>
@@ -23,7 +23,7 @@ function Backend() {
                 <div>Express Js</div>
                 <progress
                   className="progress progress-secondary w-40"
-                  value="70"
+                  value="90"
                   max="100"
                 ></progress>
               </div>              
@@ -32,7 +32,7 @@ function Backend() {
                 <div>GraphQL</div>
                 <progress
                   className="progress w-40"
-                  value="70"
+                  value="60"
                   max="100"
                 ></progress>
               </div>
@@ -43,7 +43,7 @@ function Backend() {
                 <div>Web Socket</div>
                 <progress
                   className="progress progress-primary w-40"
-                  value="70"
+                  value="50"
                   max="100"
                 ></progress>
               </div>
@@ -61,7 +61,7 @@ function Backend() {
                 <div>Next Auth</div>
                 <progress
                   className="progress progress-success w-40"
-                  value="70"
+                  value="30"
                   max="100"
                 ></progress>
               </div>

@@ -14,7 +14,7 @@ function CSFundamentals() {
                     <div>Operating System</div>
                     <progress
                       className="progress progress-accent w-40"
-                      value="70"
+                      value="100"
                       max="100"
                     ></progress>
                   </div>
@@ -23,7 +23,7 @@ function CSFundamentals() {
                     <div>Database Management System</div>
                     <progress
                       className="progress progress-secondary w-40"
-                      value="70"
+                      value="100"
                       max="100"
                     ></progress>
                   </div>              
@@ -32,7 +32,7 @@ function CSFundamentals() {
                     <div>Object Oriented Programming</div>
                     <progress
                       className="progress w-40"
-                      value="70"
+                      value="100"
                       max="100"
                     ></progress>
                   </div>
@@ -61,7 +61,7 @@ function CSFundamentals() {
                     <div>Low Level Design</div>
                     <progress
                       className="progress progress-success w-40"
-                      value="70"
+                      value="50"
                       max="100"
                     ></progress>
                   </div>
