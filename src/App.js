@@ -12,14 +12,14 @@ import Social from "./Components/Social";
 function App() {
   return (
     <>
-    <Home/>
-    <Middle1/>
-    <AboutMe/>
+    {/* <Home/> */}
+    {/* <Middle1/> */}
+    {/* <AboutMe/> */}
     <Skills/>
-    <Achievements/>
-    <Projects/>
-    <Social/>
-    <Contactme/>
+    {/* <Achievements/> */}
+    {/* <Projects/> */}
+    {/* <Social/> */}
+    {/* <Contactme/> */}
     </>
   );
 }
