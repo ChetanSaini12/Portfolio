@@ -1,7 +1,5 @@
 import React from "react";
-import { useEffect } from "react";
-import { Fade } from "react-reveal";
-import { FiLink } from "react-icons/fi";
+import { LightSpeed , Fade } from "react-reveal";
 import { Data } from "./ProjectsData.js";
 
 function Projects() {
@@ -31,7 +29,7 @@ function Projects() {
                     <div className="project_item_dot" />
                   </Fade>
                   <div className="project_item_content drop-shadow-sm p-5 flex flex-row justify-between">
-                    <Fade duration={1500} left>
+                    <LightSpeed duration={1500} left>
                       <div className="w-1/2 flex flex-col justify-center items-center">
                         <img
                           src={item.img}
@@ -47,9 +45,9 @@ function Projects() {
                           </div>
                         </div>
                       </div>
-                    </Fade>
+                    </LightSpeed>
 
-                    <Fade duration={1500} right>
+                    <LightSpeed duration={1500} right>
                       <div className="w-1/2 p-5">
                         <p className="text-sm">{item.description}</p>
                         <h5 className="project_header">Technologies:</h5>
@@ -96,7 +94,7 @@ function Projects() {
                           </span>
                         </ul>
                       </div>
-                    </Fade>
+                    </LightSpeed>
                   </div>
                 </div>
               );
